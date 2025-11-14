@@ -6,8 +6,8 @@ import SearchControls from './SearchControls';
 // --- 1. API CONFIGURATION ---
 // These constants hold your API keys. It's best practice to store these
 // in environment variables in a real application for security.
-const TICKETMASTER_API_KEY = 'emG6EuGQwypbXedcFj98I40rnvdA5wwL';
-const GOOGLE_PLACES_API_KEY = 'AIzaSyC1-uKXETX_M-Ud1FrIAsilI1lPeMFQEM8';
+const TICKETMASTER_API_KEY = 'secret';
+const GOOGLE_PLACES_API_KEY = 'secret';
 // Note: The Gemini API key is handled by the environment and is not needed here.
 
 // --- 2. API SERVICE ---
